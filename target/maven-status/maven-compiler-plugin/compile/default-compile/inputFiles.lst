@@ -1,0 +1,9 @@
+D:\Program\Homeworck4-4\src\main\java\base\BasePage.java
+D:\Program\Homeworck4-4\src\main\java\exceptions\BrowserNotSupportedException.java
+D:\Program\Homeworck4-4\src\main\java\factory\DriveFactory.java
+D:\Program\Homeworck4-4\src\main\java\factory\FirefoxDriverSettings.java
+D:\Program\Homeworck4-4\src\main\java\factory\IDriverSettings.java
+D:\Program\Homeworck4-4\src\main\java\page\MainePageDuckduckgo.java
+D:\Program\Homeworck4-4\src\main\java\page\MainePageOtus.java
+D:\Program\Homeworck4-4\src\main\java\page\MainePageOtusHome.java
+D:\Program\Homeworck4-4\src\main\java\tools\WaitTools.java
